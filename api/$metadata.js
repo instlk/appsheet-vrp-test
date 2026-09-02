@@ -1,6 +1,6 @@
 export default function handler(req, res) {
   res.redirect(
     302,
-    "https://appsheet-test.kawinduwijewardhane.co.uk/api/target"
+    "https://appsheet-test.kawinduwijewardhane.co.uk/api/validation-test"
   );
 }
